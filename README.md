@@ -8,10 +8,10 @@ Este repositorio contiene los análisis realizados para el proyecto de Predicci�
 1. Notebooks
 La carpeta notebooks incluye cuatro archivos correspondientes al análisis univariado y multivariado, cada uno realizado por un miembro del equipo. Cada participante se encargó de desarrollar su análisis de las variables asignadas. Los notebooks disponibles son:
 
-Santiago.ipynb - Análisis univariado y multivariado de variables asignadas a Santiago.
-JuanDiego.ipynb - Análisis de las variables asignadas a Juan Diego.
-Carlos.ipynb - Análisis correspondiente a las variables trabajadas por Carlos.
-Nestor.ipynb - Análisis de las variables asignadas a Néstor.
+- Santiago.ipynb - Análisis univariado y multivariado de variables asignadas a Santiago.
+- JuanDiego.ipynb - Análisis de las variables asignadas a Juan Diego.
+- Carlos.ipynb - Análisis correspondiente a las variables trabajadas por Carlos.
+- Nestor.ipynb - Análisis de las variables asignadas a Néstor.
 Cada archivo incluye exploraciones gráficas y estadísticas para una comprensión detallada de los datos específicos.
 
 2. Data
